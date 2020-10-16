@@ -1,0 +1,10 @@
+1594826980539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejqGKIu"
+1594826984942	Marionette	INFO	Listening on port 33781
+1594826984962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1594827836597	Marionette	INFO	Stopped listening on port 33781
+1594827882074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOyZd8w"
+1594827886475	Marionette	INFO	Listening on port 43775
+1594827886488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1594848768369	Marionette	INFO	Stopped listening on port 43775

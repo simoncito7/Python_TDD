@@ -1,0 +1,174 @@
+1594830125684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXtI94h"
+1594830130185	Marionette	INFO	Listening on port 46263
+1594830130204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594830305673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Nz4cm"
+1594830310064	Marionette	INFO	Listening on port 44837
+1594830310090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594830311920	Marionette	INFO	Stopped listening on port 44837
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1594830732392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB2oQ7Y"
+1594830736704	Marionette	INFO	Listening on port 40313
+1594830736804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594830738331	Marionette	INFO	Stopped listening on port 40313
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1594830870291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh4fVvA"
+1594830874547	Marionette	INFO	Listening on port 42593
+1594830874618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594830876185	Marionette	INFO	Stopped listening on port 42593
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594831268419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2zi3Zo"
+1594831272989	Marionette	INFO	Listening on port 39615
+1594831273031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594831274624	Marionette	INFO	Stopped listening on port 39615
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1594832151235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewJOrAQ"
+1594832155414	Marionette	INFO	Listening on port 33601
+1594832155448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594832157570	Marionette	INFO	Stopped listening on port 33601
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1594848769960	Marionette	INFO	Stopped listening on port 46263
+1594899878140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerSZvIY"
+1594899895386	Marionette	INFO	Listening on port 33021
+1594899895445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594899898071	Marionette	INFO	Stopped listening on port 33021
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1594899994708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRZ6CC9"
+1594899999247	Marionette	INFO	Listening on port 35855
+1594899999323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594900001596	Marionette	INFO	Stopped listening on port 35855
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1594900574926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6hCm5H"
+1594900579463	Marionette	INFO	Listening on port 46529
+1594900579538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594900581495	Marionette	INFO	Stopped listening on port 46529
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1594900960219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehtBUNz"
+1594900965149	Marionette	INFO	Listening on port 40451
+1594900965232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594900967281	Marionette	INFO	Stopped listening on port 40451
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1594900971816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuLCqnS"
+1594900976209	Marionette	INFO	Listening on port 33879
+1594900976230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594900978667	Marionette	INFO	Stopped listening on port 33879
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 244: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavHistoryService.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594901119580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNsSrmm"
+1594901124419	Marionette	INFO	Listening on port 41103
+1594901124492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594901126519	Marionette	INFO	Stopped listening on port 41103
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1594901131537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemAtRzY"
+1594901135951	Marionette	INFO	Listening on port 38521
+1594901136051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594901138840	Marionette	INFO	Stopped listening on port 38521
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594901243538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3o59SM"
+1594901247897	Marionette	INFO	Listening on port 46057
+1594901247951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594901249699	Marionette	INFO	Stopped listening on port 46057
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594901254616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Fo8C0"
+1594901258942	Marionette	INFO	Listening on port 42429
+1594901259036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594901261317	Marionette	INFO	Stopped listening on port 42429
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1594990497336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGqkSd3"
+1594990504335	Marionette	INFO	Listening on port 37715
+1594990504436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594990506992	Marionette	INFO	Stopped listening on port 37715
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1594990512960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7EAo0c"
+1594990517832	Marionette	INFO	Listening on port 37973
+1594990517894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594990520202	Marionette	INFO	Stopped listening on port 37973
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1594990587022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI7vrSO"
+1594990591612	Marionette	INFO	Listening on port 38033
+1594990591641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594990593540	Marionette	INFO	Stopped listening on port 38033
+1594990598683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRs18C2"
+1594990603020	Marionette	INFO	Listening on port 46593
+1594990603094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594990605631	Marionette	INFO	Stopped listening on port 46593
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594990752955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileONcBOr"
+1594990758901	Marionette	INFO	Listening on port 33073
+1594990758969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594990760435	Marionette	INFO	Stopped listening on port 33073
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594990766060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMnjgWp"
+1594990770658	Marionette	INFO	Listening on port 44057
+1594990770674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594990772829	Marionette	INFO	Stopped listening on port 44057
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1594991235983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevg4sA7"
+1594991240567	Marionette	INFO	Listening on port 42779
+1594991240595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594991243129	Marionette	INFO	Stopped listening on port 42779
+1594991248379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNOD5Yv"
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2164: TypeError: event.target.closest is not a function
+1594991252977	Marionette	INFO	Listening on port 36183
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594991252997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594991255102	Marionette	INFO	Stopped listening on port 36183
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1594992305051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS13anW"
+1594992309702	Marionette	INFO	Listening on port 39651
+1594992309763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594992311551	Marionette	INFO	Stopped listening on port 39651
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1594992316718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehPsafz"
+1594992321825	Marionette	INFO	Listening on port 40945
+1594992321847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594992323898	Marionette	INFO	Stopped listening on port 40945
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1594992329137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehVzvqY"
+1594992333907	Marionette	INFO	Listening on port 36943
+1594992333949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594992336250	Marionette	INFO	Stopped listening on port 36943
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
